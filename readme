@@ -1,84 +1,38 @@
-# Workforce Charter ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Workforce Charter 
+![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-📖 **Description**
-<details open>
-<summary>Show/Hide</summary>
-<br>
+## Description
+A command-line application built with Node.js and MySQL. It allows users to interactively manage departments, roles, and employees within an organization.
 
-a command-line application built with Node.js and MySQL. It allows users to interactively manage departments, roles, and employees within an organization.
-
-</details>
-
-🔍 **Table of Contents**
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [License](#license)
 - [Questions](#questions)
 
-</details>
+## Installation
+- Clone the repository to your local machine
+- Navigate to the project directory
+- Install dependencies using `npm install`
+- Create a MySQL database and run the schema provided in `schema.sql`
+- Configure environment variables in a `.env` file (use the provided example as a template)
+- Run the application using `node index.js`
+- Follow the prompts to interact
 
-🔧 **Installation**
-<details open>
-<summary>Show/Hide</summary>
-<br>
+## Usage
+Perfect for keeping track of employees, departments, and roles!
 
-Clone the repo to your local machine; navigate to project directory; install dependencies with "npm install" in the cmd line; Create a MySQL database and create the schema provided in 'schema.sql'; configure .env variables (use example as template); Run the application in cmd line "node index.js"; Follow the prompts to interact!
-
-</details>
-
-🚀 **Usage**
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
-Perfect for keeping tabs on employees, departments and roles!
-
-</details>
-
-🤝 **Contributing**
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
+## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-</details>
-
-✅ **Tests**
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
-N/A
-
-</details>
-
 ## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-
-🤔 **Questions**
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
-For any questions, please don't hesitate to contact me at:
+## Questions
+For any questions or inquiries, please feel free to contact me:
 - GitHub: [JohnM89](https://github.com/JohnM89)
 - Email: mjammer2@gmail.com
 
-</details>
-
-📸 **Demo Screenshot/Video**
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
-_Your screenshot or video link here_
-
-</details>
+## Demo
+_Screenshot or video link here_

@@ -1,0 +1,84 @@
+# Workforce Charter ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+📖 **Description**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+a command-line application built with Node.js and MySQL. It allows users to interactively manage departments, roles, and employees within an organization.
+
+</details>
+
+🔍 **Table of Contents**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+</details>
+
+🔧 **Installation**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+Clone the repo to your local machine; navigate to project directory; install dependencies with "npm install" in the cmd line; Create a MySQL database and create the schema provided in 'schema.sql'; configure .env variables (use example as template); Run the application in cmd line "node index.js"; Follow the prompts to interact!
+
+</details>
+
+🚀 **Usage**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+Perfect for keeping tabs on employees, departments and roles!
+
+</details>
+
+🤝 **Contributing**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+</details>
+
+✅ **Tests**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+N/A
+
+</details>
+
+## License
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+
+🤔 **Questions**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+For any questions, please don't hesitate to contact me at:
+- GitHub: [JohnM89](https://github.com/JohnM89)
+- Email: mjammer2@gmail.com
+
+</details>
+
+📸 **Demo Screenshot/Video**
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+_Your screenshot or video link here_
+
+</details>

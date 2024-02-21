@@ -32,7 +32,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Questions
 For any questions or inquiries, please feel free to contact me:
 - GitHub: [JohnM89](https://github.com/JohnM89)
-- Email: mjammer2@gmail.com
 
 ## Demo
 _Screenshot or video link here_
